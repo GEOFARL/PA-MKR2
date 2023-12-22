@@ -2,7 +2,7 @@
 
 ### Reference
 
-- [Info](#task)
+- [Info](#info)
 - [Task](#task)
 - [Insertions](#insertions)
 - [Deletions](#deletions)
