@@ -17,3 +17,4 @@ Information to prepare for the algorithm design test
 ## Game Theory
 
 - [MiniMax](./src/Game-Theory/MiniMax/README.md)
+- [Alpha-beta pruning](./src/Game-Theory/AlphaBeta/README.md)
